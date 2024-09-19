@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|d:\\documentos\\unreal projects\\dungeonsandcats3d\\assets\\scripts\\3dplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\3dplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3DPlayer.cs",
+              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\3DPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\3DPlayer.cs",
+              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\3DPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\3DPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:52:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Player.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:09:57.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
