@@ -366,7 +366,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 107,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -392,7 +392,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 45335,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.rsp2"
@@ -2518,7 +2518,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 53376,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -2544,7 +2544,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 93116,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.rsp2"
@@ -3213,7 +3213,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 101695,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -3239,7 +3239,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 152983,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.rsp2"
@@ -3919,7 +3919,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 161190,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -3945,7 +3945,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 198072,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2"
@@ -4531,7 +4531,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 206984,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -4557,7 +4557,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 241350,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.rsp2"
@@ -5096,7 +5096,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 250365,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -5122,7 +5122,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 287499,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.rsp2"
@@ -5672,7 +5672,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 296508,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -5698,7 +5698,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 362011,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.rsp2"
@@ -6504,7 +6504,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 370546,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -6530,7 +6530,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 407252,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.rsp2"
@@ -7067,7 +7067,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 415698,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -7093,7 +7093,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 450755,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.rsp2"
@@ -7623,7 +7623,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 459772,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -7649,7 +7649,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 495648,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.rsp2"
@@ -8181,7 +8181,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 504705,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -8207,7 +8207,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 539385,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.rsp2"
@@ -8728,7 +8728,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 548408,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -8754,7 +8754,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 586271,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.rsp2"
@@ -9315,7 +9315,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 594997,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -9341,7 +9341,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 633923,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.rsp2"
@@ -9916,7 +9916,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 642651,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -9942,7 +9942,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 677357,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.rsp2"
@@ -10467,7 +10467,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 686347,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -10493,7 +10493,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 772792,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.rsp2"
@@ -11424,7 +11424,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 781538,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -11450,7 +11450,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 818541,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.rsp2"
@@ -11992,7 +11992,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 826997,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -12018,7 +12018,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 861150,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp2"
@@ -12558,7 +12558,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 870239,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -12584,7 +12584,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 908617,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.rsp2"
@@ -13196,7 +13196,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 917402,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -13222,7 +13222,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 955872,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.rsp2"
@@ -13809,7 +13809,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 964941,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -13835,7 +13835,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1023020,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.Editor.rsp2"
@@ -14646,7 +14646,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1032095,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -14672,7 +14672,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1122666,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.rsp2"
@@ -15681,7 +15681,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1131758,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -15707,7 +15707,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1213506,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.rsp2"
@@ -16615,7 +16615,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1222348,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -16641,7 +16641,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1276777,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.rsp2"
@@ -17375,7 +17375,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1286053,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -17401,7 +17401,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1322182,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.rsp2"
@@ -17942,7 +17942,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1331125,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -17968,7 +17968,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1366783,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp2"
@@ -18551,7 +18551,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1376262,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -18577,7 +18577,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1418667,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.rsp2"
@@ -19182,7 +19182,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1428136,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -19208,7 +19208,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1462755,
       "PayloadLength": 64,
-      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\Alumno1\\Doc",
+      "PayloadDebugContentSnippet": "/pathmap:\"C:\\Users\\alumno1\\Doc",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Shared.Editor.rsp2"
@@ -19768,7 +19768,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1472301,
       "PayloadLength": 51,
-      "PayloadDebugContentSnippet": "C:\\Users\\Alumno1\\Documents\\Git",
+      "PayloadDebugContentSnippet": "C:\\Users\\alumno1\\Documents\\Git",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -19780,7 +19780,7 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 1472438,
-      "PayloadLength": 32792,
+      "PayloadLength": 33432,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -19792,7 +19792,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1505317,
+      "PayloadOffset": 1505957,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -20039,7 +20039,27 @@
         "Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
+        "Assets/Scripts/Attacks/Attack.cs",
+        "Assets/Scripts/Attacks/AttackBoss.cs",
+        "Assets/Scripts/Attacks/SpecialAttack.cs",
+        "Assets/Scripts/Boss.cs",
+        "Assets/Scripts/Dado.cs",
+        "Assets/Scripts/Guerrero.cs",
+        "Assets/Scripts/Hijos_Guerrero/Arquero.cs",
+        "Assets/Scripts/Hijos_Guerrero/Mago.cs",
+        "Assets/Scripts/Hijos_Guerrero/Warrior.cs",
+        "Assets/Scripts/Ico.cs",
+        "Assets/Scripts/Iconos.cs",
+        "Assets/Scripts/Inicializar.cs",
+        "Assets/Scripts/Life/BossLife.cs",
+        "Assets/Scripts/Life/Life.cs",
+        "Assets/Scripts/Life/TeamLife.cs",
+        "Assets/Scripts/Menu.cs",
         "Assets/Scripts/Player.cs",
+        "Assets/Scripts/Pointer.cs",
+        "Assets/Scripts/Selection.cs",
+        "Assets/Scripts/Shield.cs",
+        "Assets/Scripts/Victory.cs",
         "C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
         "Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp"
@@ -20278,7 +20298,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 1505413,
+      "PayloadOffset": 1506053,
       "PayloadLength": 9606,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
@@ -21368,7 +21388,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"C:\\Users\\Alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.VisualScripting.Core.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.VisualScripting.Flow.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\Unity.VisualScripting.State.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\\ReportGeneratorMerged.dll\" -a=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netfx\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\compat\\2.1.0\\shims\\netstandard\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\Extensions\\2.0.0\" -s=\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.38f1\\Editor\\Data\\NetStandard\\ref\\2.1.0\" -s=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\ScriptAssemblies\" -s=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -s=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.testtools.codecoverage@1.2.5\\lib\\ReportGenerator\" -s=\"C:\\Users\\alumno1\\Documents\\GitHub\\DungeonsAndCats3D\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -21654,6 +21674,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1900b0aE.dag.json",
-  "PayloadsFile": "C:/Users/Alumno1/Documents/GitHub/DungeonsAndCats3D/Library/Bee/1900b0aE.dag.payloads",
+  "PayloadsFile": "C:/Users/alumno1/Documents/GitHub/DungeonsAndCats3D/Library/Bee/1900b0aE.dag.payloads",
   "RelativePathToRoot": "../.."
 }

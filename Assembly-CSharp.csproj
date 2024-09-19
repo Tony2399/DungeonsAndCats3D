@@ -60,7 +60,30 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.38f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Life\Life.cs" />
+    <Compile Include="Assets\Scripts\Pointer.cs" />
+    <Compile Include="Assets\Scripts\Life\BossLife.cs" />
+    <Compile Include="Assets\Scripts\Boss.cs" />
+    <Compile Include="Assets\Scripts\Hijos_Guerrero\Arquero.cs" />
+    <Compile Include="Assets\Scripts\Life\TeamLife.cs" />
+    <Compile Include="Assets\Scripts\Attacks\SpecialAttack.cs" />
+    <Compile Include="Assets\Scripts\Victory.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\Attacks\AttackBoss.cs" />
+    <Compile Include="Assets\Scripts\Shield.cs" />
+    <Compile Include="Assets\Scripts\Ico.cs" />
+    <Compile Include="Assets\Scripts\Guerrero.cs" />
+    <Compile Include="Assets\Scripts\Hijos_Guerrero\Warrior.cs" />
+    <Compile Include="Assets\Scripts\Menu.cs" />
+    <Compile Include="Assets\Scripts\Hijos_Guerrero\Mago.cs" />
+    <Compile Include="Assets\Scripts\Dado.cs" />
+    <Compile Include="Assets\Scripts\Iconos.cs" />
+    <Compile Include="Assets\Scripts\Inicializar.cs" />
+    <Compile Include="Assets\Scripts\Attacks\Attack.cs" />
+    <Compile Include="Assets\Scripts\Selection.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Dado\ChromaKeyer.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
