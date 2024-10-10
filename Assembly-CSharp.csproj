@@ -69,12 +69,14 @@
     <Compile Include="Assets\Scripts\Enfrentamientos\Life\BossLife.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Life\Life.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Dado.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Attacks\Attack.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Pointer.cs" />
     <Compile Include="Assets\Scripts\PlayerThreeD.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Hijos_Guerrero\Warrior.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Hijos_Guerrero\Mago.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Menu.cs" />
+    <Compile Include="Assets\Scripts\Example.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Shield.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Inicializar.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Life\TeamLife.cs" />
