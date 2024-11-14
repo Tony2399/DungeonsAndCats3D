@@ -12,11 +12,12 @@ TagManager:
   - Boss
   - Bomb
   - Michiarquero
+  - ZonaEscalada
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - groundLayer
   - Water
   - UI
   - 

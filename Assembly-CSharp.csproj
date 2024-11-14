@@ -60,34 +60,34 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.37f1-x86_64\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\ItemInteractive.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Boss.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Selection.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Iconos.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Hijos_Guerrero\Arquero.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Ico.cs" />
-    <Compile Include="Assets\Scripts\Jarron.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerThreeD.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Attacks\SpecialAttack.cs" />
+    <Compile Include="Assets\Scripts\Interactuables\Jarron.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Life\BossLife.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Life\Life.cs" />
     <Compile Include="Assets\Scripts\Player\SimplePlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\Player\ComandoCofre.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Dado.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
-    <Compile Include="Assets\Scripts\Cofre.cs" />
+    <Compile Include="Assets\Scripts\Interactuables\Interactable.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Attacks\Attack.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Pointer.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Hijos_Guerrero\Warrior.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Hijos_Guerrero\Mago.cs" />
+    <Compile Include="Assets\Scripts\Interactuables\Cofre.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Menu.cs" />
-    <Compile Include="Assets\Scripts\Interactable.cs" />
+    <Compile Include="Assets\Scripts\Interactuables\ItemInteractive.cs" />
     <Compile Include="Assets\Scripts\Example.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Shield.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Inicializar.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Life\TeamLife.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Victory.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Player.cs" />
+    <Compile Include="Assets\Scripts\Impacto.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Guerrero.cs" />
     <Compile Include="Assets\Scripts\Enfrentamientos\Attacks\AttackBoss.cs" />
   </ItemGroup>

@@ -28,16 +28,19 @@ public class PlayerThreeD : MonoBehaviour
 
     void Update()
     {
+        
         //Comando para intercambiar jugadores
         if (Input.GetKeyDown(KeyCode.E))
         {
             num = 1;
+            NewPosition = characters[currentIndex].transform.position;
             NextChar(num);
 
         }
         else if (Input.GetKeyDown(KeyCode.Q))
         {
             num = -1;
+            NewPosition = characters[currentIndex].transform.position;
             NextChar(num);
         }
 
@@ -66,16 +69,16 @@ public class PlayerThreeD : MonoBehaviour
     void NextChar(int n)
     {
         
-        NewPosition = characters[currentIndex].transform.position;
         // Mostrar el siguiente personaje
         currentIndex = (currentIndex + n) % characters.Length;
         if(currentIndex < 0)
         {
             currentIndex = 2;
         }
+        characters[currentIndex].GetComponent<Transform>().position = NewPosition;
         ShowCharacter(currentIndex);
 
-        characters[currentIndex].GetComponent<Transform>().position = NewPosition;
+        
     }
 
     private void OnTriggerEnter(Collider other)
