@@ -4,54 +4,52 @@ using UnityEngine;
 
 public class SimplePlayerMovement : MonoBehaviour
 {
-    public float speed = 3.0f;
-    public float jumpForce = 5.0f;
-    public float gravity = -9.8f;  // Para gestionar la gravedad manualmente
-    public float groundCheckDistance = 0.1f;  // Distancia para comprobar si está tocando el suelo
+    public float speed = 5.0f;
+    public float jumpForce = 7.0f;
+    public float groundCheckRadius = 0.2f;  // Radio de la esfera para verificar suelo
+    public Transform groundCheck;  // Objeto para marcar el punto de verificación de suelo
 
-    private CharacterController characterController;
-    private Vector3 velocity;
+    private Rigidbody rb;
     private bool isGrounded;
 
     void Start()
     {
-        characterController = GetComponent<CharacterController>();  // Obtener el CharacterController
+        rb = GetComponent<Rigidbody>();
+        rb.freezeRotation = true;  // Evita rotaciones no deseadas
     }
 
     void Update()
     {
-        // Comprobar si el jugador está tocando el suelo usando el método isGrounded de CharacterController
-        isGrounded = characterController.isGrounded;
+        // Verificar si el personaje está en el suelo con una esfera de colisión
+        isGrounded = Physics.CheckSphere(groundCheck.position, groundCheckRadius);
 
-        // Movimiento horizontal
-        float x = Input.GetAxis("Horizontal") * speed;
-        float z = Input.GetAxis("Vertical") * speed;
-        Vector3 movement = new Vector3(x, 0, z);
+        // Llamar a la función de movimiento
+        Move();
 
-        // Si el jugador está en el suelo, reducir la velocidad en Y para que no siga cayendo
-        if (isGrounded)
+        // Salto
+        if (isGrounded && Input.GetKeyDown(KeyCode.Space))
         {
-            velocity.y = -2f;  // Asegurarse de que el personaje se mantenga pegado al suelo cuando está en el suelo
-
-            // Salto
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                Jump();
-            }
+            Jump();
         }
-        else
-        {
-            // Si no está en el suelo, aplicar la gravedad
-            velocity.y += gravity * Time.deltaTime;
-        }
-
-        // Mover el CharacterController, aplicando la velocidad calculada en X, Y, Z
-        characterController.Move(movement * Time.deltaTime + velocity * Time.deltaTime);
     }
 
-    void Jump()
+    private void Move()
     {
-        // Asignamos la fuerza del salto al componente Y de la velocidad
-        velocity.y = jumpForce;
+        // Obtener el input para el movimiento horizontal y vertical
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+
+        // Crear un vector de dirección basado en el input
+        Vector3 direction = new Vector3(x, 0, z).normalized;
+
+        // Mover el Rigidbody en la dirección deseada multiplicada por la velocidad
+        Vector3 movement = direction * speed * Time.deltaTime;
+        rb.MovePosition(transform.position + movement);
+    }
+
+    private void Jump()
+    {
+        // Aplicar una fuerza hacia arriba para el salto
+        rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
     }
 }

@@ -1,42 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\impacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\impacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|c:\\users\\marco\\documents\\github\\dungeonsandcats3d\\assets\\scripts\\interactuables\\jarron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactuables\\jarron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|d:\\documentos\\unreal projects\\dungeonsandcats3d\\assets\\scripts\\player\\simpleplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\simpleplayermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|c:\\users\\marco\\documents\\github\\dungeonsandcats3d\\assets\\scripts\\interactuables\\iteminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactuables\\iteminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\player\\playerthreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerthreed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|c:\\users\\marco\\documents\\github\\dungeonsandcats3d\\assets\\scripts\\interactuables\\cofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactuables\\cofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\documentos\\unreal projects\\dungeonsandcats3d\\assets\\scripts\\escalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\escalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\iteminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\iteminteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\cofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\cofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\jarron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\jarron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\assets\\scripts\\player\\comandocofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player\\comandocofre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|c:\\users\\marco\\documents\\github\\dungeonsandcats3d\\assets\\scripts\\interactuables\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93FE7B1-6344-084C-3414-A8D652B9C9EF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactuables\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,118 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimplePlayerMovement.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Player\\SimplePlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\SimplePlayerMovement.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Player\\SimplePlayerMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\SimplePlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Jarron.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\Jarron.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactuables\\Jarron.cs",
+              "ToolTip": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\Jarron.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactuables\\Jarron.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T17:44:30.786Z",
+              "WhenOpened": "2024-11-15T00:22:57.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerThreeD.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Player\\PlayerThreeD.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerThreeD.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Player\\PlayerThreeD.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerThreeD.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwF4AAAAuAAAAAAAAAA==",
+              "Title": "Cofre.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\Cofre.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactuables\\Cofre.cs",
+              "ToolTip": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\Cofre.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactuables\\Cofre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:47:54.732Z",
+              "WhenOpened": "2024-11-15T00:20:02.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemInteractive.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\ItemInteractive.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactuables\\ItemInteractive.cs",
+              "ToolTip": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\ItemInteractive.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactuables\\ItemInteractive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T00:13:28.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Escalar.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Escalar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Escalar.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Escalar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Escalar.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwFkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T16:55:15.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Impacto.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Impacto.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Impacto.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Impacto.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Impacto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:54:14.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ComandoCofre.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Player\\ComandoCofre.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\ComandoCofre.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Player\\ComandoCofre.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\ComandoCofre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:41:45.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Interactable.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Interactable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Interactable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Interactable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\Interactable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactuables\\Interactable.cs",
+              "ToolTip": "C:\\Users\\marco\\Documents\\GitHub\\DungeonsAndCats3D\\Assets\\Scripts\\Interactuables\\Interactable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactuables\\Interactable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:39:08.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItemInteractive.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\ItemInteractive.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemInteractive.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\ItemInteractive.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ItemInteractive.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T05:42:59.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cofre.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Cofre.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Cofre.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Cofre.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Cofre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:38:38.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Jarron.cs",
-              "DocumentMoniker": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Jarron.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Jarron.cs",
-              "ToolTip": "D:\\Documentos\\Unreal Projects\\DungeonsAndCats3D\\Assets\\Scripts\\Jarron.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Jarron.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:01:54.632Z"
+              "WhenOpened": "2024-11-15T00:11:44.89Z",
+              "EditorCaption": ""
             }
           ]
         }

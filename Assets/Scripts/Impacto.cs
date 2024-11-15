@@ -8,7 +8,19 @@ public class Impacto : MonoBehaviour
     public float velocidadMaximaRetroceso = 5f; // Velocidad máxima del retroceso
     public float friccion = 0.2f;              // Fricción para reducir el retroceso con el tiempo
     public float gravedad = -9.8f;             // Gravedad aplicada en el retroceso
+
+    private Rigidbody rb;                      // Rigidbody del jugador
     private Vector3 velocidad = Vector3.zero;  // Velocidad del jugador
+
+    private void Start()
+    {
+        // Obtener el Rigidbody del jugador
+        rb = GetComponent<Rigidbody>();
+        if (rb == null)
+        {
+            Debug.LogError("No se encontró un Rigidbody en el objeto.");
+        }
+    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -16,45 +28,43 @@ public class Impacto : MonoBehaviour
         {
             Debug.Log("Impacto detectado con el jugador");
 
-            // Obtener el CharacterController del jugador
-            CharacterController characterController = other.GetComponent<CharacterController>();
+            // Obtener el Rigidbody del jugador
+            Rigidbody rbJugador = other.GetComponent<Rigidbody>();
 
-            if (characterController != null)
+            if (rbJugador != null)
             {
                 // Calcular la dirección de retroceso
                 Vector3 direccionRetroceso = (other.transform.position - transform.position).normalized;
 
-                // Aplicar la fuerza de retroceso (similar a la física de un Rigidbody)
-                velocidad += direccionRetroceso * fuerzaRetroceso;
+                // Aplicar la fuerza de retroceso directamente al Rigidbody
+                Vector3 fuerzaRetrocesoFinal = direccionRetroceso * fuerzaRetroceso;
+                rbJugador.AddForce(fuerzaRetrocesoFinal, ForceMode.Impulse);
 
                 // Limitar la velocidad máxima
-                if (velocidad.magnitude > velocidadMaximaRetroceso)
+                if (rbJugador.velocity.magnitude > velocidadMaximaRetroceso)
                 {
-                    velocidad = velocidad.normalized * velocidadMaximaRetroceso;
+                    rbJugador.velocity = rbJugador.velocity.normalized * velocidadMaximaRetroceso;
                 }
             }
             else
             {
-                Debug.LogWarning("El jugador no tiene un CharacterController.");
+                Debug.LogWarning("El jugador no tiene un Rigidbody.");
             }
         }
     }
 
-    void Update()
+    private void FixedUpdate()
     {
-        // Obtener el CharacterController
-        CharacterController characterController = GetComponent<CharacterController>();
-
-        if (characterController != null)
+        if (rb != null)
         {
-            // Aplicar la fricción (decremento de velocidad)
-            velocidad *= (1 - friccion * Time.deltaTime);
+            // Aplicar fricción para reducir la velocidad con el tiempo
+            velocidad *= (1 - friccion * Time.fixedDeltaTime);
 
-            // Simular la gravedad
-            velocidad.y += gravedad * Time.deltaTime;
+            // Simular la gravedad manualmente
+            velocidad.y += gravedad * Time.fixedDeltaTime;
 
-            // Mover al jugador
-            characterController.Move(velocidad * Time.deltaTime);
+            // Mover al jugador aplicando la velocidad al Rigidbody
+            rb.velocity = velocidad;
         }
     }
 }
